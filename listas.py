@@ -22,4 +22,5 @@ colores.insert(2,"naranja") #agrega un nuevo color en la posicion 2 y el resto d
 total_rojo= colores.count("rojo") #cuenta cuantas veces se repite el color rojo en la lista
 
 print(colores)
+print("colores")
 print(f"el color rojo se repite {total_rojo} veces en la lista")
